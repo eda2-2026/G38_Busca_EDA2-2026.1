@@ -5,9 +5,6 @@ ARQUIVO_DADOS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "jogado
 
 
 def carregar_dados():
-    if not os.path.exists(ARQUIVO_DADOS):
-        return []
-
     with open(ARQUIVO_DADOS, "r", encoding="utf-8") as arquivo:
         dados = json.load(arquivo)
     return dados
