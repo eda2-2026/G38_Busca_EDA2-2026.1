@@ -1,0 +1,117 @@
+[
+    {
+        "nome": "Anderson",
+        "posicao": "Meio",
+        "pago": true
+    },
+    {
+        "nome": "Bruno",
+        "posicao": "Atacante",
+        "pago": true
+    },
+    {
+        "nome": "Carlos",
+        "posicao": "Zagueiro",
+        "pago": true
+    },
+    {
+        "nome": "Daniel",
+        "posicao": "Goleiro",
+        "pago": true
+    },
+    {
+        "nome": "Eduardo",
+        "posicao": "Meio",
+        "pago": false
+    },
+    {
+        "nome": "Felipe",
+        "posicao": "Atacante",
+        "pago": true
+    },
+    {
+        "nome": "Gabriel",
+        "posicao": "Zagueiro",
+        "pago": false
+    },
+    {
+        "nome": "Henrique",
+        "posicao": "Goleiro",
+        "pago": true
+    },
+    {
+        "nome": "Igor",
+        "posicao": "Meio",
+        "pago": true
+    },
+    {
+        "nome": "Jorge",
+        "posicao": "Goleiro",
+        "pago": true
+    },
+    {
+        "nome": "José",
+        "posicao": "Goleiro",
+        "pago": true
+    },
+    {
+        "nome": "João",
+        "posicao": "Atacante",
+        "pago": false
+    },
+    {
+        "nome": "João Marcelo",
+        "posicao": "Goleiro",
+        "pago": false
+    },
+    {
+        "nome": "Kaique",
+        "posicao": "Zagueiro",
+        "pago": true
+    },
+    {
+        "nome": "Lucas",
+        "posicao": "Meio",
+        "pago": true
+    },
+    {
+        "nome": "Marcelo",
+        "posicao": "Atacante",
+        "pago": false
+    },
+    {
+        "nome": "Nathan",
+        "posicao": "Goleiro",
+        "pago": true
+    },
+    {
+        "nome": "Pedro",
+        "posicao": "Meio",
+        "pago": true
+    },
+    {
+        "nome": "Rafael",
+        "posicao": "Zagueiro",
+        "pago": false
+    },
+    {
+        "nome": "Samuel",
+        "posicao": "Atacante",
+        "pago": true
+    },
+    {
+        "nome": "Thiago",
+        "posicao": "Meio",
+        "pago": false
+    },
+    {
+        "nome": "Vinícius",
+        "posicao": "Atacante",
+        "pago": true
+    },
+    {
+        "nome": "Wellington",
+        "posicao": "Goleiro",
+        "pago": false
+    }
+]
