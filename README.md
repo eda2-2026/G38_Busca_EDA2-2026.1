@@ -15,7 +15,12 @@ O projeto é um sistema de gerenciamento de jogadores para peladas semanais de f
 O sistema permite adicionar, remover, buscar e filtrar jogadores, além de controlar quem já pagou o campo.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+![Tela Inicial](imagens/tela_inicial.png)
+
+![Busca de Jogador](imagens/buscaJogador.png)
+
+![Lista de Devedores](imagens/listaDevedores.png)
 
 ## Instalação
 Linguagem: Python
