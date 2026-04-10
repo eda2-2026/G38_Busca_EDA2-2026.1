@@ -14,6 +14,10 @@ O projeto é um sistema de gerenciamento de jogadores para peladas semanais de f
 
 O sistema permite adicionar, remover, buscar e filtrar jogadores, além de controlar quem já pagou o campo.
 
+## Vídeo
+
+https://youtu.be/DCdp7Z6p_co
+
 ## Screenshots
 
 ![Tela Inicial](imagens/tela_inicial.png)
